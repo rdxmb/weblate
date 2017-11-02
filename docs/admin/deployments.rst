@@ -12,7 +12,7 @@ Running Weblate in the Docker
 -----------------------------
 
 With dockerized weblate deployment you can get your personal weblate instance
-up an running in seconds. All of Weblate's dependencies are already included.
+up and running in seconds. All of Weblate's dependencies are already included.
 PostgreSQL is configured as the default database.
 
 .. _docker-deploy:
